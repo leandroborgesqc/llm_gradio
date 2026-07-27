@@ -52,7 +52,7 @@ def main():
 
     view = gr.Interface(
         fn=stream_model,
-        title="Microsoft Foundry",
+        title="LLM Gradio",
         inputs=[message_input, model_selector],
         outputs=[message_output],
         examples=[
