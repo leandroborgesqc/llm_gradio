@@ -48,6 +48,7 @@
 
 ## About The Project
 
+[![App Screenshot][screenshot]](img/gradio.png)
 LLM Gradio is a lightweight chat web app built with Gradio. It connects to multiple LLM providers via the OpenAI-compatible API and streams responses directly to the UI with markdown rendering.
 
 **Features:**
@@ -163,3 +164,4 @@ Distributed under the MIT License.
 [gradio-url]: https://www.gradio.app/
 [openai-shield]: https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white
 [openai-url]: https://github.com/openai/openai-python
+[screenshot]: img/gradio.png
